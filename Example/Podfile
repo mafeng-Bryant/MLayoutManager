@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MLayoutManager_Example' do
+  pod 'MLayoutManager', :path => '../'
+
+  target 'MLayoutManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
