@@ -1,0 +1,16 @@
+PODS:
+  - MLayoutManager (0.1.0)
+
+DEPENDENCIES:
+  - MLayoutManager (from `../`)
+
+EXTERNAL SOURCES:
+  MLayoutManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLayoutManager: faa5d43ea4830f66085cdadb9e26a28ee095c59e
+
+PODFILE CHECKSUM: fedf92b21d16af681c7ffcaf4a1dd6b3da3487db
+
+COCOAPODS: 1.5.3

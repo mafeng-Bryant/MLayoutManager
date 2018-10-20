@@ -1,0 +1,6 @@
+framework module MLayoutManager {
+  umbrella header "MLayoutManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
